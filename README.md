@@ -5,6 +5,9 @@ This repository contains the **machine learning pipeline for forecasting weekly 
 The goal is to build a **global forecasting model** that can predict sales across multiple stores and departments for future weeks.
 
 ---
+## Dataset
+The dataset used is the [Walmart Sales Forecasting dataset](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).  
+Please download it from Kaggle and place the CSV files (`train.csv`, `features.csv`, `stores.csv`) in the `data/` folder before running the scripts.
 
 ## 📂 Dataset
 The dataset is based on the **Walmart Recruiting - Store Sales Forecasting** dataset from Kaggle.  
